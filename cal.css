@@ -29,19 +29,19 @@
     border: 1px solid grey;
 }
 .calculator form input{
-    width: 640px;
+    width: 40px;
     height: 40px;
     border: none;
     padding: 14px;
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.4);
     background: transparent;
-    font-size: 25px;
+    font-size: 15px;
     color: #fff;
     cursor: pointer;
     margin:10px;
     text-align: right;
-    text-family:bold;
+    font-family: bold;
 }
 .calculator form input:hover{
     background-color:pink; 
@@ -81,4 +81,3 @@ form input.col{
 form input.equal{
     background-color: red;
 }
-
