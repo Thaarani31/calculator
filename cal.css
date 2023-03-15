@@ -29,8 +29,8 @@
     border: 1px solid grey;
 }
 .calculator form input{
-    width: 45px;
-    height: 90px;
+    width: 640px;
+    height: 40px;
     border: none;
     padding: 14px;
     border-radius: 10px;
