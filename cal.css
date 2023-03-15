@@ -29,14 +29,14 @@
     border: 1px solid grey;
 }
 .calculator form input{
-    width: 30px;
-    height: 80px;
+    width: 45px;
+    height: 90px;
     border: none;
     padding: 14px;
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.4);
     background: transparent;
-    font-size: 20px;
+    font-size: 25px;
     color: #fff;
     cursor: pointer;
     margin:10px;
